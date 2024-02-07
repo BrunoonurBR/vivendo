@@ -49,3 +49,4 @@ plt.title('Correlação do Retorno Acumulado')
 sns.heatmap(acumulado.corr(), annot=True, cmap='coolwarm', fmt=".2f", linewidths=.5)
 plt.show()
 
+# fim
